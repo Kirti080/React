@@ -1,15 +1,15 @@
 import './App.css'
 
 const employees = [
-  {
-    id: 'EMP-1024',
-    name: 'Aarav Mehta',
-    role: 'Senior Frontend Engineer',
-    team: 'Product Engineering',
-    location: 'Bengaluru',
-    status: 'Active',
-    allocation: '92%',
-  },
+  // {
+  //   id: 'EMP-1024',
+  //   name: 'Aarav Mehta',
+  //   role: 'Senior Frontend Engineer',
+  //   team: 'Product Engineering',
+  //   location: 'Bengaluru',
+  //   status: 'Active',
+  //   allocation: '92%',
+  // },
   {
     id: 'EMP-1031',
     name: 'Priya Nair',
